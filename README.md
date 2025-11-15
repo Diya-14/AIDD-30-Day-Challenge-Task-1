@@ -58,6 +58,7 @@ c) Eliminate coding
 d) Automate testing
 
 **Correct Answer: b) Empower developers through AI tools**
+
 **Explanation:**
 The AI-Native Era is designed to make developers more powerful by giving them AI tools that help with coding, testing, and planning. It does NOT replace developers.
 
@@ -70,6 +71,7 @@ c) Avoids tools
 d) Works offline
 
 **Correct Answer: b) Creates context-aware prompts**
+
 **Explanation:**
 AI-driven developers know how to give clear context and proper prompts to AI, so the AI can generate correct and useful outputs.
 
@@ -82,6 +84,7 @@ c) Automated IDE Deployment
 d) Adaptive Input Debugger
 
 **Correct Answer: b) AI-Driven Development**
+
 **Explanation:**
 AIDD describes the modern method of developing software using AI collaboration.
 
@@ -94,6 +97,7 @@ c) UI design
 d) Testing only
 
 **Correct Answer: b) Evaluating and improving AI outputs**
+
 **Explanation:**
 EvDD is all about checking the AI’s response, improving it, and correcting mistakes.
 
@@ -106,6 +110,7 @@ c) Avoiding AI tools
 d) Manual workflows
 
 **Correct Answer: b) Building reasoning + evaluation skills**
+
 **Explanation:**
 AI handles routine tasks. Developers must focus on thinking, problem-solving, and analyzing AI-generated results.
 
