@@ -1,8 +1,10 @@
 
 # ✅ **AIDD 30-Day Challenge — Task 1 (Full Assignment Completed)**
 
-**Student:** DIYA IQBAL
-**Class Slot:** Friday — 6:00 PM to 9:00 PM
+**Student:** DIYA IQBAL,
+
+**Class Slot:** Friday — 6:00 PM to 9:00 PM, 
+
 **Instructor:** Sir Hamzah Syed
 
 # **1. Study Material Summary (AI-Native Era — Preface Summary)**
